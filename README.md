@@ -10,6 +10,6 @@ own fossil site as well.
 
 ##Team Members
 
-Piara Sandhu
-Calvin Settachatgul
-Hugh G Suttong
+*  Piara Sandhu
+*  Calvin Settachatgul
+*  Hugh Sutton-Gee
