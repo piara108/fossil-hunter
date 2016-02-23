@@ -7,3 +7,5 @@ own site.
 ### Fossil database API
 
 *  https://paleobiodb.org/#/
+
+own fossil site as well.
