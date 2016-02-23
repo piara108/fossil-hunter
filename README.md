@@ -2,10 +2,14 @@
 
 Fossil Hunter displays fossil locations in the
 United States and allows users to create their
-own site.
+own fossil site as well.
 
 ### Fossil database API
 
 *  https://paleobiodb.org/#/
 
-own fossil site as well.
+##Team Members
+
+Piara Sandhu
+Calvin Settachatgul
+Hugh G Suttong
