@@ -1,14 +1,35 @@
 $(document).ready(function(){
-  console.log("hello");
+  // console.log("hello");
 
-  var request = $.ajax({
-    url:,
-    method: 'GET',
-  });
+  requestList();
 
-  request.on('done', function(response){
+  requestDetail();
 
+
+});
+
+var requestList = function(){
+    var request = $.ajax({
+    url:'/welcome/getList',
+    method: 'GET'
+    });
+
+  request.done(function(response){
+    console.log("we got list!");
     console.log(response);
 
   });
-});
+};
+
+var requestDetail = function(){
+    var request = $.ajax({
+    url:'/welcome/getDetail',
+    method: 'GET'
+    });
+
+  request.done(function(response){
+    console.log("we got detail!")
+    console.log(response);
+
+  });
+};
