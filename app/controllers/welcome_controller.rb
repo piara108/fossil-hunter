@@ -36,3 +36,4 @@ class WelcomeController < ApplicationController
     render json: detail.to_json
   end
 end
+#this is a test change
