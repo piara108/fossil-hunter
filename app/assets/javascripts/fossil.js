@@ -1,6 +1,6 @@
 $(document).ready(function(){
   requestList();
-  // requestDetail();
+  // requestDetail(); //disable bc we dont understand the api for this yet
 });
 
 var requestList = function(){
@@ -137,12 +137,10 @@ function initMap() {
 }
 
 var placePin = function(record) {
-  // var latLng = {lat: record.lat, lng: record.lng};
   var LatLng = new google.maps.LatLng(record.lat, record.lng);
   var marker = new google.maps.Marker({
                   position: LatLng,
                   map: googleMap,
                   title: record.oid.toString()
                });
-  // console.log(LatLng);
 };
