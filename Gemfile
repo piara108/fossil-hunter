@@ -34,9 +34,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use to receive data from web services and analyze the output
 gem 'httparty'
 
-# Use postgres as the database for Active Record
-gem 'pg'
-
 # Use puma as the app server
 gem 'puma'
 
