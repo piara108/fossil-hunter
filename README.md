@@ -1,6 +1,6 @@
 # Fossil Hunter
 
-Fossil Hunter displays various fossil locations on a map of the United States using the PaleoBio and Google Maps API.
+Fossil Hunter displays various fossil locations on a map of the United States using the PaleoBio and Google Maps APIs.
 
 ### Fossil database API
 
