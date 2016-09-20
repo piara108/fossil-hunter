@@ -6,7 +6,7 @@ The Fossil Hunter app displays various fossil locations on a map of the United S
 
 *  https://paleobiodb.org/#/
 
-##Team Members
+###Team Members
 
 *  Piara Sandhu
 *  Calvin Settachatgul
